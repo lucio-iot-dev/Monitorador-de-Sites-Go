@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"os"
+)
 
 
 
@@ -30,8 +33,10 @@ func main() {
         fmt.Println("Exibindo Logs...")
     case 0:
         fmt.Println("Saindo do programa")
+        os.Exit(0)
     default:
         fmt.Println("Não conheço este comando")
+        os.Exit(-1)
     }
     // o switch não precisa utilizar o comando break para parar a execução....ele por si só já vai sair sa função caso alguem escolher um item
 }
