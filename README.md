@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Este projeto consiste em um analizador de status code de sites , no intuíto de verificar de tempo em tempo se o site continua ativo ou caiu sua conexão.
 Sua finalidade a princípio é aprimorar os conhecimentos na linguagem e brincar um pouco com os códigos, para fins de consultas futuras.
 
-link: [Link](Ainda em andamento...)
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucio-iot-dev/Monitorador-de-Sites-Go/blob/main/LICENSE) para mais detalhes.
 
 
 Dev: Lúcio do Nascimento.
